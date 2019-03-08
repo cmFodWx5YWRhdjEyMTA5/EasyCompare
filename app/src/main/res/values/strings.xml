@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Easy Compare</string>
+    <string name="product">Discover</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="easy_compare">Easy Compare</string>
+    <string name="description">A fun and fresh 5-light island chandelier inspired by nautical accents. The open frame is popular in a variety of todays home designs and is finished in Brushed Nickel. This chandelier is a perfect selection for installations over kitchen islands and dining room tables. Coordinating pendants available in 3-sizes</string>
+</resources>
